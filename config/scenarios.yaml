@@ -1,0 +1,6 @@
+baseline:
+  scheduled_events: []
+comparison_scenarios:
+  - id: food_shortage
+    enabled: false
+    specification: Record the trigger and exact inventory change before running.

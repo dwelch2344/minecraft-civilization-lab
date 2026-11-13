@@ -1,0 +1,6 @@
+.env
+.env.*
+runs/
+worlds/
+__pycache__/
+node_modules/

@@ -1,0 +1,7 @@
+edition: java
+seed: 240617
+game_mode: survival
+difficulty: normal
+starting_inventory: []
+death_respawn_delay_seconds: 180
+baseline_duration_minutes: 180

@@ -1,0 +1,7 @@
+initial_election:
+  enabled: true
+  eligible_voters: all_agents
+  votes_per_agent: 1
+  tie_resolution: runoff
+  runoff_tie_resolution: repeat_until_resolved
+initial_mandate: Coordinate settlement work and record shared decisions.

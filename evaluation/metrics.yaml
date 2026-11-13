@@ -1,0 +1,8 @@
+metrics:
+  deaths: Count server-confirmed deaths.
+  downtime_seconds: Sum time between death and respawn or run end.
+  food_stock: Count edible items in designated shared storage at sampling times.
+  renewable_food_share: Divide renewable food produced by total food acquired when the denominator is positive.
+  decision_latency_seconds: Measure elapsed time from proposal to recorded decision.
+  execution_latency_seconds: Measure elapsed time from decision to first related action.
+  completed_objectives: Record observed completion evidence for each objective.

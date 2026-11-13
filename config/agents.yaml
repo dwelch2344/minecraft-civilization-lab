@@ -1,0 +1,31 @@
+agents:
+  - id: alder
+    name: Alder
+    profile: prompts/agent-profiles/alder.md
+  - id: briar
+    name: Briar
+    profile: prompts/agent-profiles/briar.md
+  - id: cinder
+    name: Cinder
+    profile: prompts/agent-profiles/cinder.md
+  - id: dawn
+    name: Dawn
+    profile: prompts/agent-profiles/dawn.md
+  - id: ember
+    name: Ember
+    profile: prompts/agent-profiles/ember.md
+  - id: fern
+    name: Fern
+    profile: prompts/agent-profiles/fern.md
+  - id: gale
+    name: Gale
+    profile: prompts/agent-profiles/gale.md
+  - id: hazel
+    name: Hazel
+    profile: prompts/agent-profiles/hazel.md
+  - id: iris
+    name: Iris
+    profile: prompts/agent-profiles/iris.md
+  - id: juniper
+    name: Juniper
+    profile: prompts/agent-profiles/juniper.md
